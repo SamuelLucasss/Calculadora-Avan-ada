@@ -1,4 +1,4 @@
-# Calculadora Avançada 🖩
+# Calculadora Avançada
 <img src="./mockup" alt="Mockup do Projeto">
 Calculadora construída do zero orientada a objetos com HTML, CSS e JAVASCRIPT.
 
